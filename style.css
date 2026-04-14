@@ -1,0 +1,63 @@
+.TOP {
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 12px;
+    background: linear-gradient(135deg, rgb(183, 187, 198), rgb(6, 6, 6));
+    padding: 24px 20px 16px;
+}
+.absolute {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    background-color: #ffffff;
+    width: 75px;
+    border-radius: 35px;
+}
+.logo{
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    
+}
+.imagenes{
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    width: 175px;
+    height: 175px;
+}
+.item {
+    background-color: #585858;
+    color: white;
+    padding: 15px 25px;
+    margin: 3px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: space-between;
+}
+.presentación{
+      background-color: #5e5d5d;
+    color: white;
+    padding: 15px 25px;
+    margin: 3px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: space-between;  
+}
+.Board{
+    background-color: #060606;
+    color: white;
+    padding: 15px 25px;
+    margin: 3px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+.articulos{ 
+    display: flex;
+    background-color: #ecf0f1;
+    border: 5px solid #bdc3c7;
+    padding: 10px;
+    margin: 1px 10px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
